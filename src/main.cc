@@ -1,7 +1,5 @@
 /*
 
-//Bene da Best
-
 #include <iostream>
 #include <cstdlib>
 #include <cstdint>
